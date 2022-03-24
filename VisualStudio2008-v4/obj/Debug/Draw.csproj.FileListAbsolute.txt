@@ -1,0 +1,47 @@
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Draw 21-22\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\bin\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\bin\Debug\Draw.pdb
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\obj\Debug\Draw.Properties.Resources.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\obj\Debug\Draw.MainForm.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\obj\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2\obj\Debug\Draw.pdb
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\bin\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\bin\Debug\Draw.pdb
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\obj\Debug\Draw.Properties.Resources.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\obj\Debug\Draw.MainForm.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\obj\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2 – Копие\obj\Debug\Draw.pdb
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2.5\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2.5\obj\Debug\Draw.Properties.Resources.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2.5\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2.5\obj\Debug\Draw.MainForm.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2.5\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2.5\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2.5\obj\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v2.5\obj\Debug\Draw.pdb
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\obj\Debug\Draw.Properties.Resources.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\obj\Debug\Draw.MainForm.resources
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\obj\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\obj\Debug\Draw.pdb
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\bin\Debug\Draw.exe
+D:\Desktop\VAJNO!!! Programirane\Компютърна графика\Курсов проект\VisualStudio2008-v3 – Копие\bin\Debug\Draw.pdb
